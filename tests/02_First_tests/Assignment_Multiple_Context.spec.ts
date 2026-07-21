@@ -14,3 +14,4 @@ test("Verify two browser context open",async({browser})=>{
     await TTABankcontext.close();
     await browser.close();
 });
+
