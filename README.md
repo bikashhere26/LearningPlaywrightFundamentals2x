@@ -85,7 +85,7 @@ tests/
 | **01_Basics** | Introduction to Playwright test structure and configuration |
 | **02_First_tests** | First executable tests with browser context and page management |
 | **03_Locators_Commands** | Locator strategies (CSS, XPath, role-based) and Playwright commands |
-| **04_Session_Storage** | Browser storage, session storage, and local storage manipulation |
+| **04_Session_Storage** | Browser storage, session storage, local storage manipulation, and dashboard automation without login (session reuse) |
 | **05_Allure_Reporting** | Integration and usage of Allure reporting framework |
 | **06_Multiple_Element** | Techniques for selecting and interacting with multiple elements |
 | **07_Webtables** | Web table navigation and data extraction |
