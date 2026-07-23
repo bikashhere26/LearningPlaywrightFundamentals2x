@@ -151,4 +151,21 @@ Test configuration is managed in `playwright.config.ts`. You can modify:
 
 ---
 
+## ⚡ Quick Commands
+
+- Install dependencies: `npm install`
+- Run all tests: `npx playwright test`
+- Run a single test file: `npx playwright test tests/06_Multiple_Element/Assignment_Student_login.spec.ts`
+- Show HTML report: `npx playwright show-report`
+
+## 📌 Commit & Push (example)
+
+- Stage all changes: `git add -A`
+- Commit: `git commit -m "docs: update README with quick run instructions"`
+- Push: `git push`
+
+---
+
+Last updated: 2026-07-24
+
 Happy Testing! 🎭
