@@ -106,6 +106,12 @@ tests/
 | **22_Misc_Concepts** | Additional advanced concepts and best practices |
 | **23_Advance_Framework** | Complex framework setup and patterns |
 
+## ✨ Recent Additions
+
+- Added web table automation practice covering dynamic XPath and table traversal examples under the Webtables module.
+- Expanded multiple-element and assignment-based Playwright exercises to strengthen locator and assertion skills.
+- Included hands-on examples for practical browser automation scenarios and reusable test patterns.
+
 ## 📁 Root Files
 
 - **playwright.config.ts** - Playwright configuration (browsers, timeout, retry settings, etc.)
