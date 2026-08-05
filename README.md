@@ -109,6 +109,7 @@ tests/
 ## ✨ Recent Additions
 
 - Added web table automation practice covering dynamic XPath and table traversal examples under the Webtables module.
+- Added a new pagination table assignment in the Webtables module.
 - Expanded multiple-element and assignment-based Playwright exercises to strengthen locator and assertion skills.
 - Included hands-on examples for practical browser automation scenarios and reusable test patterns.
 
@@ -172,10 +173,10 @@ Test configuration is managed in `playwright.config.ts`. You can modify:
 
 ---
 
-Last updated: 2026-08-05
+Last updated: 2026-08-06
 
 ## Changelog
 
-- 2026-08-05: Updated README last-updated date and added this changelog entry; committed and pushed repository changes.
+- 2026-08-06: Updated README with latest Webtables addition and prepared repository changes for commit.
 
 Happy Testing! 🎭
