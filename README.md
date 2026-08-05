@@ -172,6 +172,10 @@ Test configuration is managed in `playwright.config.ts`. You can modify:
 
 ---
 
-Last updated: 2026-07-24
+Last updated: 2026-08-05
+
+## Changelog
+
+- 2026-08-05: Updated README last-updated date and added this changelog entry; committed and pushed repository changes.
 
 Happy Testing! 🎭
