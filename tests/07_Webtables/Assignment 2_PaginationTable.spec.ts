@@ -17,3 +17,4 @@ test('Get data from pagination Web table ', async ({ page }) => {
     console.log(`${name} EmailID ${emailId} and Country ${country}`);
 
 })
+

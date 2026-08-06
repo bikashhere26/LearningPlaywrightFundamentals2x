@@ -109,7 +109,8 @@ tests/
 ## ✨ Recent Additions
 
 - Added web table automation practice covering dynamic XPath and table traversal examples under the Webtables module.
-- Added a new pagination table assignment in the Webtables module.
+- Added a new pagination table assignment and pagination example scripts in the Webtables module.
+- Added advanced select/dropdown and iframe automation examples in the Web Select / Frames module.
 - Expanded multiple-element and assignment-based Playwright exercises to strengthen locator and assertion skills.
 - Included hands-on examples for practical browser automation scenarios and reusable test patterns.
 
