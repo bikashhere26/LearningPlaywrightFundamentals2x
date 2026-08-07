@@ -111,6 +111,7 @@ tests/
 - Added web table automation practice covering dynamic XPath and table traversal examples under the Webtables module.
 - Added a new pagination table assignment and pagination example scripts in the Webtables module.
 - Added advanced select/dropdown and iframe automation examples in the Web Select / Frames module.
+- Added `261_Advance_Select_Pro.spec.ts` advanced select practice under `08_Web_Select_Frames_iframe`.
 - Expanded multiple-element and assignment-based Playwright exercises to strengthen locator and assertion skills.
 - Included hands-on examples for practical browser automation scenarios and reusable test patterns.
 
@@ -174,10 +175,10 @@ Test configuration is managed in `playwright.config.ts`. You can modify:
 
 ---
 
-Last updated: 2026-08-06
+Last updated: 2026-08-07
 
 ## Changelog
 
-- 2026-08-06: Updated README with latest Webtables addition and prepared repository changes for commit.
+- 2026-08-07: Updated README with the latest advanced select/iframe test addition and repo changes for commit.
 
 Happy Testing! 🎭
