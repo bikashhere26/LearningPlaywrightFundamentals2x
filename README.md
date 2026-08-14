@@ -115,6 +115,7 @@ tests/
 - Added nested iframe interaction practice in `09_Frame_iframe/262_Iframe.spec.ts`, covering frame navigation, form filling, and validation inside nested frames.
 - Expanded multiple-element and assignment-based Playwright exercises to strengthen locator and assertion skills.
 - Included hands-on examples for practical browser automation scenarios and reusable test patterns.
+ - Fixed strict-mode iframe selector issue in `tests/09_Frame_iframe/264_Iframe_part2.spec.ts` by disambiguating frame locators with `.first()`.
 
 ## 📁 Root Files
 
