@@ -13,11 +13,6 @@ test('Basic Web Test - Verify Select!', async ({ page }) => {
     await page.getByText('Senior (7+ years)', { exact: true }).click();
 
     await page.close();
-
-
-
-
-
-
+    
 
 });
