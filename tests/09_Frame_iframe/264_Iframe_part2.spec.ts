@@ -16,5 +16,5 @@ test('iframe practice', async ({ page }) => {
      const headerText = await frame1.locator('h3').innerText();
     console.log(headerText);  
 
-
 });
+
